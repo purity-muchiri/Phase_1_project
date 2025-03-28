@@ -29,6 +29,10 @@ This project analyzes aviation accident data to identify the safest aircraft for
 ### Manufacturer Analysis  
 ![Manufacturer Analysis](images/manufacturer.png) 
 
+## Tableau Dashboard 
+ 
+[View Dashboard](https://public.tableau.com/app/profile/purity.muchiri/viz/aviation_data_aalysis/Dashboard1?publish=yes)  
+
 ## Tools & Technologies  
 - Python (Pandas, NumPy, Seaborn, Matplotlib)  
 - Jupyter Notebook  
@@ -37,5 +41,14 @@ This project analyzes aviation accident data to identify the safest aircraft for
 ## Future Work  
 - Expand dataset to improve analysis.  
 - Develop a predictive model for risk assessment.  
-- Integrate real-time aviation safety reports.  
+- Integrate real-time aviation safety reports.
+
+## Conclusion  
+Based on our analysis:  
+- **Aircraft Type & Manufacturer:** Some aircraft types have significantly higher accident rates.  
+- **Geographical Distribution:** Certain regions report more aviation incidents due to weather, regulation, or air traffic.  
+- **Trends Over Time:** Aviation safety has improved in recent years, but risks remain for specific aircraft models.  
+
+
+
   
