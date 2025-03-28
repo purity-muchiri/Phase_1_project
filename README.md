@@ -18,16 +18,16 @@ This project analyzes aviation accident data to identify the safest aircraft for
   - Handling missing values  
 
 ## Visualizations  
-![Yearly Accident Trend](images/accidents over time.png)  
+![Yearly Accident Trend](images/accidents_over_time.png)  
 
 ### Aircraft Types Involved  
-![Aircraft Types](images/aircraft type.png)  
+![Aircraft Types](images/aircraft_type.png)  
 
 ### Geographical Distribution of Accidents  
-![Geographical Distribution](images/location with most accidents.png)  
+![Geographical Distribution](images/location_with_most_accidents.png)  
 
 ### Manufacturer Analysis  
-![Manufacturer Analysis](images/manufacturer.png)
+![Manufacturer Analysis](images/manufacturer.png) 
 
 ## Tools & Technologies  
 - Python (Pandas, NumPy, Seaborn, Matplotlib)  
